@@ -22,7 +22,7 @@
 		<!--embedded has the pdb data embedded within the dll. This is useful because bug reports will then have line numbers.-->
 		<!--none skips creation of pdb data.-->
 		<DebugType>embedded</DebugType>
-		<RootNamespace>ModTemplate</RootNamespace>
+		<RootNamespace>UiImprovements</RootNamespace>
 	</PropertyGroup>
 
 	<PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
