@@ -2,9 +2,9 @@
 
 ### Description
 
-#### A mod for The Long Dark that adds more informativeness to the user interface in places where it is justified from the point of view of the gaming experience, but for some reason have not been implemented by developers.
+A mod for The Long Dark that adds more informativeness to the user interface in places where it is justified from the point of view of the gaming experience, but for some reason have not been implemented by developers.
 
-#### *The mod does not change the gameplay.*
+***The mod does not change the gameplay.***
 
 ### Features
 
