@@ -1,20 +1,20 @@
 ## The Long Dark UI Improvements Mod
 
-### Description
+## Description
 
-A mod for The Long Dark that adds more informativeness to the user interface in places where it is justified by the gaming experience, but for some reason have not been implemented by developers.
+A mod for The Long Dark that makes user interface more informative in places where it is justified by the gaming experience, but for some reason have not been implemented by developers.
 
 ***The mod does not change the gameplay.***
 
-### Features
+## Features
 
-- Insulated flask:
+### Insulated flask
   - Displaying the percent of heat in the items transfering menu of the insulated flask;
   - Displaying the percent of heat instead of the progress bar on the item description page;
-- Ice fishing hole:
+### Ice fishing hole
   - Displays the time in minutes it will take to break the ice for the selected item in the ice breaking menu.
 
-### Installation
+## Installation
 
 - Install [MelonLoader](https://melonwiki.xyz/);
 - Proceed MelonLoader installation steps;
