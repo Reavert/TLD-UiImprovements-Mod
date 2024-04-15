@@ -19,8 +19,10 @@ internal static class Shared
         string gearInventoryName = selectedGearItem.GetDisplayNameWithoutConditionForInventoryInterfaces();
         float minutesToBreakIce = panel.m_IceFishingHole.NormalizedFrozen *
                                   selectedIceFishingHoleClearItem.m_NumGameMinutesToClear;
-	
-        s_CachedToolLabelText = $"{gearInventoryName} ({minutesToBreakIce:F0} {Localization.Get("GAMEPLAY_minutes")})";
+
+        s_CachedToolLabelText = minutesToBreakIce < 1.0f 
+            ? $"{gearInventoryName} ({Localization.Get("GAMEPLAY_lessthanoneminute")})" 
+            : $"{gearInventoryName} ({minutesToBreakIce:F0} {Localization.Get("GAMEPLAY_minutes")})";
     }
 }
 
