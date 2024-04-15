@@ -9,7 +9,7 @@ A mod for The Long Dark that adds more informativeness to the user interface in 
 ### Features
 
 - Insulated flask:
-  - Displaying the percent of heat in the menu for transferring items from the inventory to the insulated flask;
+  - Displaying the percent of heat in the items transfering menu of the insulated flask;
   - Displaying the percent of heat instead of the progress bar on the item description page;
 - Ice fishing hole:
   - Displays the time in minutes it will take to break the ice for the selected item in the ice breaking menu.
